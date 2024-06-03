@@ -2,23 +2,7 @@
 
 Bomber Man is a Python class that facilitates sending emails automatically using SMTP. It provides a simple interface to connect to an SMTP server, log in, and send emails with ease.
 
-   ##### 
- #########
-###########
-#############
-#############
-###########
-#######
-#####
-#####
-###########
-###############
-#################
-###################
-###################
-#################
-###############
-#############
+  
             
 ## Features
 
